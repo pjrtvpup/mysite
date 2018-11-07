@@ -1,0 +1,133 @@
+body 	{
+	background-color: #f4f4f4;
+}
+
+.link	{
+	text-decoration: none;
+  	color: black;
+}
+
+.link:hover {
+   	text-decoration: underline;
+}
+
+.name	{
+
+	display: block;
+	width: 250px;
+	position: relative;
+	padding: 20px;
+	margin: auto;
+	font-family: Garamond;
+	color: Black;
+	font-size: 32px;
+	margin-bottom: 10px;
+}
+
+h1 {
+	position: relative;
+	margin:auto;
+	margin-top: 5px;
+	margin-bottom:5px;
+}
+
+
+.header	{
+	display: block;
+	position: relative;
+	margin-top: 20px;
+	margin-bottom: 20px;
+  	margin:auto;
+  	height: 50px;
+  	width: 600px;
+  	align-content: center;
+}
+
+
+.custompins {
+	display: inline;
+	margin-top: 10px;
+  	padding: 10px;
+}
+
+.musicwriting {
+  	display:inline;
+  	margin-top: 10px;
+  	padding: 10px;
+}
+
+.radio {
+  	display:inline;
+  	margin-top:10px;
+  	padding: 10px;
+}
+
+h2	{
+	font-family: Garamond;
+	color: black;
+	margin-left: 5%;
+	text-decoration: none;
+	font-size: 28px;
+}
+
+.mainline	{
+	display: inline-block;
+  	position: relative;
+	margin-top: 40px;
+	font-family: Garamond;
+	color: black;
+  	margin-left: 250px;
+	margin-right:180px;
+	margin-bottom: 20px;
+  	text-decoration: none;
+}
+
+.firsttext	{
+
+	display: inline-block;
+	font-family: Garamond;
+	margin-top: 20px;
+	margin-left: 100px;
+	margin-right: 100px;
+	color: black
+
+}
+
+.text	{
+	display: inline-block;
+	font-family: Garamond;
+	margin-left: 100px;
+	margin-right:100px;
+	margin-top:2px;
+	color: black;
+}
+
+.lasttext {
+	display: inline-block;
+	font-family: Garamond;
+	margin-left: 100px;
+	margin-right:100px;
+	margin-top:2px;
+	margin-bottom:20px;
+	color: black;
+}
+
+.music	{
+	display: block;
+	margin-top: 100px;
+	margin: auto;
+	margin-bottom: 10px;
+	width: 40%;
+}
+
+
+.photo	{
+	display: block;
+	position: relative;
+  	margin-top: 60px;
+  	margin:auto;
+  	height: 600px;
+	width: 400px;
+}
+
+
